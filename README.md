@@ -65,9 +65,9 @@
 </head>
 <body>
   <div id="container">
-    <span id="bunny">🐰</span>
-    <button id="clickBtn">Энд дар 🐇👉</button>
-    <div id="message">🎉 Happy Birthday, Sweetie! 🎂</div>
+    <span id="bunny">🤭</span>
+    <button id="clickBtn">Энд дар ✨👉</button>
+    <div id="message">🎉 Happy Birthday, 🎂</div>
   </div>
 
   <script>
